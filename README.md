@@ -35,9 +35,19 @@ I'm constantly expanding my knowledge through hands-on practice, CTF challenges,
 
 ### 📊 GitHub Statistics
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzDanii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzDanii&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDanii&theme=tokyonight&layout=compact&hide_border=true)
+
+</div>
+
+### 🏆 GitHub Profile Stats
+
+![](https://komarev.com/ghpvc/?username=ItzDanii&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
