@@ -1,35 +1,50 @@
-#  🗿 obsessed with cyber - ItzDanni
+# Hi, I'm Dnyaneshwar Yadav 👋
 
-## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
--  🎓 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚁𝚎𝚍 𝚃𝚎𝚊𝚖𝚒𝚗𝚐, 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗, 𝚊𝚗𝚍 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜  
--  🚀 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚆𝚎𝚋 𝙰𝚙𝚙 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐  
--  🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗: 𝚂𝚘𝚌𝚒𝚊𝚕 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐  
--  💡 𝙾𝚋𝚜𝚎𝚜𝚜𝚎𝚍 𝚠𝚒𝚝𝚑 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 — exploring every layer of digital defense and offense  
--  🛠 𝙷𝚊𝚗𝚍𝚜-𝚘𝚗 𝚠𝚒𝚝𝚑: 𝙺𝚊𝚕𝚒 𝙻𝚒𝚗𝚞𝚡, 𝙽𝚖𝚊𝚙, 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎, 𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝, 𝚆𝚒𝚛𝚎𝚜𝚑𝚊𝚛𝚔
+## Cybersecurity Professional | Red Team Enthusiast
+
+I'm a cybersecurity student specializing in offensive security, with a deep passion for red teaming, exploit development, and malware analysis. Currently focused on building practical skills in penetration testing and security research.
+
+### 🔒 Current Focus
+- Advanced web application security testing
+- Network penetration testing methodologies
+- Reverse engineering and malware analysis
+- Social engineering tactics and awareness
+
+### 🛠️ Technical Skills
+
+**Security Tools & Frameworks**
+- Penetration Testing: Kali Linux, Metasploit Framework, Burp Suite Professional
+- Network Analysis: Nmap, Wireshark, tcpdump
+- Programming: Python (automation & exploit development)
+- Operating Systems: Linux (Kali, Ubuntu), Windows
+
+**Core Competencies**
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Web Application Security (OWASP Top 10)
+- Network Security & Protocol Analysis
+- Exploit Development & Research
+- Security Documentation & Reporting
+
+### 📚 Continuous Learning
+I'm constantly expanding my knowledge through hands-on practice, CTF challenges, and staying current with the latest security research and CVE disclosures.
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dnyaneshwaryadav7499)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnyaneshwar.cyber@gmail.com)
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzDanii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDanii&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-## 🛠 Skills & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white)
----
+<div align="center">
 
----
+*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* — Gene Spafford
 
-## 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwaryadav7499)
-[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:dnyaneshwar.cyber@gmail.com)
+**Always learning, always hacking (ethically).**
 
----
-
-## 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzDanii&theme=dark&show_icons=true&cache_seconds=86400)  
-
----
-
-> *“Security is not a product, but a process.” — Bruce Schneier*
+</div>
