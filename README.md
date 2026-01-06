@@ -1,60 +1,31 @@
-# Hi, I'm Dnyaneshwar Yadav 👋
+# Dnyaneshwar Yadav
 
-## Cybersecurity Professional | Red Team Enthusiast
+**Cybersecurity Student | Penetration Testing & Red Team Operations**
 
-I'm a cybersecurity student specializing in offensive security, with a deep passion for red teaming, exploit development, and malware analysis. Currently focused on building practical skills in penetration testing and security research.
+I'm a cybersecurity professional focused on offensive security, specializing in penetration testing, exploit development, and malware analysis. My work centers on identifying vulnerabilities and understanding attack vectors to build stronger defenses.
 
-### 🔒 Current Focus
-- Advanced web application security testing
-- Network penetration testing methodologies
-- Reverse engineering and malware analysis
-- Social engineering tactics and awareness
+## Areas of Expertise
 
-### 🛠️ Technical Skills
-
-**Security Tools & Frameworks**
-- Penetration Testing: Kali Linux, Metasploit Framework, Burp Suite Professional
-- Network Analysis: Nmap, Wireshark, tcpdump
-- Programming: Python (automation & exploit development)
-- Operating Systems: Linux (Kali, Ubuntu), Windows
-
-**Core Competencies**
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Web Application Security (OWASP Top 10)
-- Network Security & Protocol Analysis
+**Offensive Security**
+- Web Application Penetration Testing
+- Network Security Assessment
 - Exploit Development & Research
-- Security Documentation & Reporting
+- Malware Analysis & Reverse Engineering
 
-### 📚 Continuous Learning
-I'm constantly expanding my knowledge through hands-on practice, CTF challenges, and staying current with the latest security research and CVE disclosures.
+**Technical Proficiency**
+- Tools: Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark
+- Programming: Python (Security Automation & Scripting)
+- Methodologies: OWASP Testing Framework, PTES, Kill Chain Analysis
 
-### 📫 Connect With Me
+## Current Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dnyaneshwaryadav7499)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dnyaneshwar.cyber@gmail.com)
+Working on advanced social engineering techniques and developing custom security tools for penetration testing workflows.
 
-### 📊 GitHub Statistics
+## Professional Links
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzDanii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzDanii&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDanii&theme=tokyonight&layout=compact&hide_border=true)
-
-</div>
-
-### 🏆 GitHub Profile Stats
-
-![](https://komarev.com/ghpvc/?username=ItzDanii&color=blueviolet&style=flat-square&label=Profile+Views)
+- **LinkedIn:** [dnyaneshwaryadav7499](https://www.linkedin.com/in/dnyaneshwaryadav7499)
+- **Email:** dnyaneshwar.cyber@gmail.com
 
 ---
 
-<div align="center">
-
-*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* — Gene Spafford
-
-**Always learning, always hacking (ethically).**
-
-</div>
+*"Security is a process, not a product."*
